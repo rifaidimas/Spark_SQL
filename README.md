@@ -1,1 +1,1 @@
-# Spark_SQL
+# Assignment Session 6 - Spark SQL
